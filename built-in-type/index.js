@@ -10,3 +10,7 @@ lastName = ' Khatun';
 isActivated = true;
 fullName = firstName.concat(lastName);
 console.log("Your id: ".concat(userId, ", userName:").concat(fullName, ", account activated: ").concat(isActivated));
+function display() {
+    console.log('Hi I am Tanjila');
+}
+display();

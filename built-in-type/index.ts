@@ -14,3 +14,8 @@ isActivated = true;
 fullName = firstName.concat(lastName);
 
 console.log(`Your id: ${userId}, userName:${fullName}, account activated: ${isActivated}`);
+
+function display(): void{
+    console.log('Hi I am Tanjila'); 
+}
+display();
